@@ -1,4 +1,4 @@
-![Image](/social-square.png) <br>
+![Image](/social-square.gif) <br>
 Download the *.rmskin and install it using the Rainmeter application, you will need to find and install the latest version of Rainmeter from Rainmeter.net <br>
 ## ATTENTION: YOU ***MUST*** request your own API key <br>
 You will fill in that api key in the variables file near the end. No quotes or whatever just put it in directly. <br>
